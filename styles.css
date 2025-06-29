@@ -127,3 +127,6 @@ footer {
     border-color: red;
   }
 
+  input:focus {
+    border-color: rgb(0, 0, 255);
+  }
